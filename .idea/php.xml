@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/BST-SIO-A-G6-2022-Quizziz-Backend/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/BST-SIO-A-G6-2022-Quizziz-Backend/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/BST-SIO-A-G6-2022-Quizziz-Backend/vendor/composer" />
+      <path value="$PROJECT_DIR$/BST-SIO-A-G6-2022-Quizziz-Backend/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/BST-SIO-A-G6-2022-Quizziz-Backend/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/BST-SIO-A-G6-2022-Quizziz-Backend/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/BST-SIO-A-G6-2022-Quizziz-Backend/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/BST-SIO-A-G6-2022-Quizziz-Backend/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/BST-SIO-A-G6-2022-Quizziz-Backend/vendor/phpoption/phpoption" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.0">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+</project>

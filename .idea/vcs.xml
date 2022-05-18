@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BST-SIO-A-G6-2022-Quizziz-Backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LeBacend" vcs="Git" />
   </component>
 </project>
